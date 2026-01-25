@@ -93,7 +93,7 @@ testing {
       implementation(project(project.path))
 
       implementation(enforcedPlatform("org.junit:junit-bom:5.14.0"))
-      implementation(enforcedPlatform("org.assertj:assertj-bom:3.27.6"))
+      implementation(enforcedPlatform("org.assertj:assertj-bom:3.27.7"))
 
       implementation("org.junit.jupiter:junit-jupiter-api")
       implementation("org.assertj:assertj-core")
